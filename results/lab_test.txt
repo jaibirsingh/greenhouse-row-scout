@@ -1,0 +1,6 @@
+Lab test (held-out PlantVillage photos)
+Photos tested: 506
+Correct: 495
+Accuracy: 97.8%
+Healthy photos called sick: 9
+Sick photos called healthy: 2

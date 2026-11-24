@@ -1,0 +1,12 @@
+file,actual,predicted,sick_score
+data\split\test\healthy\healthy_107.jpg,healthy,sick,0.661
+data\split\test\healthy\healthy_12.jpg,healthy,sick,0.686
+data\split\test\healthy\healthy_150.jpg,healthy,sick,0.553
+data\split\test\healthy\healthy_178.jpg,healthy,sick,0.855
+data\split\test\healthy\healthy_190.jpg,healthy,sick,0.593
+data\split\test\healthy\healthy_194.jpg,healthy,sick,0.657
+data\split\test\healthy\healthy_195.jpg,healthy,sick,0.833
+data\split\test\healthy\healthy_216.jpg,healthy,sick,0.742
+data\split\test\healthy\healthy_242.jpg,healthy,sick,0.634
+data\split\test\sick\Target_Spot_174.jpg,sick,healthy,0.181
+data\split\test\sick\Target_Spot_196.jpg,sick,healthy,0.352
